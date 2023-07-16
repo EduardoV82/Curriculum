@@ -1,8 +1,7 @@
 # Curriculum
 
 Soy Venezolano, vivo en Brasil desde hace 7 anos, graduado en
-							Relaciones Industriales, con experiencia en entrenamiento de personal, recrutamiento
-							y selección de personal, siempre trabajando en el área gerencial 
+							Relaciones Industriales, con experiencia en entrenamiento de personal, recrutamiento y selección de personal, siempre trabajando en el área gerencial 
 							en empresas de comida rapida.
                             
                             Me gusta siempre estar aprendiendo  cosas nuevas, ya que eso me ayudar a crecer
@@ -16,3 +15,4 @@ Soy Venezolano, vivo en Brasil desde hace 7 anos, graduado en
 
                             A parte del desarrollo web, tambien soy un apasionado, por mi familia,
 							la música y el fútbol.
+[Curriculum.pdf](https://github.com/EduardoV82/Curriculum/files/12063050/Curriculum.pdf)
